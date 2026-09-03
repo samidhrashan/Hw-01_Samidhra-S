@@ -1,3 +1,5 @@
+[pen and paper hw1.pdf](https://github.com/user-attachments/files/31795977/pen.and.paper.hw1.pdf)
+[HW1_Part2_AI_Use_Note.docx](https://github.com/user-attachments/files/31795967/HW1_Part2_AI_Use_Note.docx)
 [task3_fixed.webm](https://github.com/user-attachments/assets/9659e9ec-b836-41ca-a08b-b1d8c06287e1)
 [task3_current.webm](https://github.com/user-attachments/assets/243f12e3-0595-4c58-b376-707a8d052c71)
 [task1_fixed.webm](https://github.com/user-attachments/assets/93d1fb2c-9f8a-4b83-ae08-03711f1f3067)
