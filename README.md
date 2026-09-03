@@ -1,0 +1,4 @@
+[task3_fixed.webm](https://github.com/user-attachments/assets/9659e9ec-b836-41ca-a08b-b1d8c06287e1)
+[task3_current.webm](https://github.com/user-attachments/assets/243f12e3-0595-4c58-b376-707a8d052c71)
+[task1_fixed.webm](https://github.com/user-attachments/assets/93d1fb2c-9f8a-4b83-ae08-03711f1f3067)
+[task1_current.webm](https://github.com/user-attachments/assets/57b61262-c2e1-442a-b7eb-5865e3e0b7d9)
